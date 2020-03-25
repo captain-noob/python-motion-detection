@@ -1,0 +1,4 @@
+DateTime==4.3
+opencv-python==4.2.0.32
+playsound==1.2.2
+times==0.7
